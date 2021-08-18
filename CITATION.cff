@@ -1,0 +1,11 @@
+# YAML 1.2
+---
+abstract: " This dissertation studies the use of microgrids during cold-load pickup (CLPU) conditions, that are typical after outage in distribution networks with large prevalence of thermostatically controlled load. It develops a mixed integer linear programming formulation for scheduling service restoration. The model outputs optimal re-connection period, generation and storage levels at different microgrids, as well as power supply level from the main grid. Unlike existing literature this dissertation uses a network with multiple microgrids. It also allows for different conditions at the microgrids: with some operating in islanded mode and having diversified load, while others being in outage and having to do service restoration with CLPU. The model is tested on different modifications of IEEE-13 feeder network. The model could be used in practical application for service restoration scheduling and in planning process to test CLPU capabilities of a network. "
+authors: 
+  -
+    family-names: Pavlenishvili
+    given-names: Levan
+cff-version: "1.1.0"
+date-released: 2021-08-20
+message: "If you use this model, please cite it using these metadata."
+...
