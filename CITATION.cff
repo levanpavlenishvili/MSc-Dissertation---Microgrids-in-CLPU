@@ -8,4 +8,6 @@ authors:
 cff-version: "1.1.0"
 date-released: 2021-08-20
 message: "If you use this model, please cite it using these metadata."
+repository-code: "https://github.com/levanpavlenishvili/MSc-Dissertation---Microgrids-in-CLPU.git"
+title: "Optimal Integration of Microgrids in Smart Electricity Grids During Cold-Load Pickup"
 ...
